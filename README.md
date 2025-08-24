@@ -50,4 +50,5 @@ A hands‑on repo exploring GitHub Actions end to end: run jobs in containers, s
 
 ## License
 
-MIT
+[MIT license](LICENSE)
+
